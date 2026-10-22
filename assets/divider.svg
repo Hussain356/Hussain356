@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="8" viewBox="0 0 1000 8" role="presentation" aria-hidden="true">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d9ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2c5364" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#00d9ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="pulse" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="300" y2="0">
+      <stop offset="0" stop-color="#00d9ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7cf5ff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#00d9ff" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-300 0" to="1000 0" dur="3.5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="3" width="1000" height="2" rx="1" fill="url(#base)"/>
+  <rect x="0" y="2.5" width="1000" height="3" rx="1.5" fill="url(#pulse)"/>
+</svg>
