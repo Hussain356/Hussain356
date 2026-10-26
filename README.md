@@ -100,7 +100,7 @@ Before software, I worked as a **Tax Strategist**, handling taxation, accounting
 | [**🐍 snake-game-javascript**](https://github.com/Hussain356/snake-game-javascript) | Classic Snake with keyboard and on-screen controls and a persistent high score | `JavaScript` |
 | [**✂️ rock-paper-scissors-javascript**](https://github.com/Hussain356/rock-paper-scissors-javascript) | Rock Paper Scissors against the computer, with a saved scoreboard and keyboard shortcuts | `JavaScript` |
 | [**🃏 memory-card-game-javascript**](https://github.com/Hussain356/memory-card-game-javascript) | Memory matching game with 8 pairs, flip animations, a 60-second timer, and a flip counter | `JavaScript` `CSS` |
-| **🔤 word-arena-game-javascript** | Hangman and Word Scramble in one web app, with unit tests and GitHub Pages deployment | `JavaScript` |
+| [**🔤 word-arena-game-javascript**](https://github.com/Hussain356/word-arena-game-javascript) | Hangman and Word Scramble in one web app, with unit tests and GitHub Pages deployment | `JavaScript` |
 
 ### 🎨 Creative & Interactive Tools
 
