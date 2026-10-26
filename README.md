@@ -82,14 +82,14 @@ Before software, I worked as a **Tax Strategist**, handling taxation, accounting
 | [**☕ cafe-pos-system-python**](https://github.com/Hussain356/cafe-pos-system-python) | Cafe point-of-sale app with tax and service billing, receipts, order history, and sales reports stored in CSV | `Python` `Tkinter` |
 | [**⚓ battleship-java-oop**](https://github.com/Hussain356/battleship-java-oop) | Two-player Battleship game with ship placement, save/resume, and a persistent leaderboard | `Java` `Swing` |
 | [**📦 inventory-management-system-java**](https://github.com/Hussain356/inventory-management-system-java) | Console inventory app with admin login, product management, and stock-checked purchases | `Java` `OOP` |
-| **🎓 university-management-system-javafx** | Manages students, teachers, courses, grades, attendance, and fees, with a dashboard and CSV export | `Java` `JavaFX` `Maven` |
+| [**🎓 university-management-system-javafx**](https://github.com/Hussain356/university-management-system-javafx) | Manages students, teachers, courses, grades, attendance, and fees, with a dashboard and CSV export | `Java` `JavaFX` `Maven` |
 
 ### 🌐 Web Development
 
 | Project | What it does | Tech |
 |---|---|---|
 | [**🛍️ ecommerce-website-html-css-js**](https://github.com/Hussain356/ecommerce-website-html-css-js) | Responsive fashion storefront with hero slider, mega menu, product grids, and filters | `HTML` `CSS` `JavaScript` |
-| **🌦️ weather-app-javascript** | Live weather with city search, 5-day forecast, and °C/°F toggle, powered by the Open-Meteo API | `JavaScript` `API` |
+| [**🌦️ weather-app-javascript**](https://github.com/Hussain356/weather-app-javascript) | Live weather with city search, 5-day forecast, and °C/°F toggle, powered by the Open-Meteo API | `JavaScript` `API` |
 | **⌨️ typing-speed-test-javascript** | Real-time typing test measuring WPM and accuracy, with live character highlighting | `JavaScript` |
 
 ### 🎮 Browser Games
@@ -113,7 +113,7 @@ Before software, I worked as a **Tax Strategist**, handling taxation, accounting
 
 | Project | What it does | Tech |
 |---|---|---|
-| **⏱️ digital-stopwatch-circuit-multisim** | Digital stopwatch built from 7490 counters, 7447 decoders, and six seven-segment displays | `Multisim` `Digital Logic` |
+| [**⏱️ digital-stopwatch-circuit-multisim**](https://github.com/Hussain356/digital-stopwatch-circuit-multisim) | Digital stopwatch built from 7490 counters, 7447 decoders, and six seven-segment displays | `Multisim` `Digital Logic` |
 
 <div align="center">
 
@@ -144,7 +144,7 @@ Before software, I worked as a **Tax Strategist**, handling taxation, accounting
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hussain356&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hussain356&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain356&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d9ff&text_color=c9d1d9" alt="Top languages"/>
 </p>
 
