@@ -50,6 +50,8 @@ Before software, I worked as a **Tax Strategist**, handling taxation, accounting
 ![Java Swing](https://img.shields.io/badge/Java%20Swing-GUI-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-Desktop-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-Build-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-API-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5 Canvas](https://img.shields.io/badge/HTML5%20Canvas-Graphics-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Multisim](https://img.shields.io/badge/NI%20Multisim-Circuits-00A651?style=for-the-badge)
 
@@ -90,6 +92,7 @@ Before software, I worked as a **Tax Strategist**, handling taxation, accounting
 |---|---|---|
 | [**🛍️ ecommerce-website-html-css-js**](https://github.com/Hussain356/ecommerce-website-html-css-js) | Responsive fashion storefront with hero slider, mega menu, product grids, and filters | `HTML` `CSS` `JavaScript` |
 | [**🌦️ weather-app-javascript**](https://github.com/Hussain356/weather-app-javascript) | Live weather with city search, 5-day forecast, and °C/°F toggle, powered by the Open-Meteo API | `JavaScript` `API` |
+| [**🗂️ zip-file-organizer**](https://github.com/Hussain356/zip-file-organizer) | Node.js web app that sorts the files in an uploaded ZIP into folders by file type and returns a clean ZIP, with upload limits, rate limiting, and automated tests | `Node.js` `Express` `JavaScript` |
 | **⌨️ typing-speed-test-javascript** | Real-time typing test measuring WPM and accuracy, with live character highlighting | `JavaScript` |
 
 ### 🎮 Browser Games
@@ -100,7 +103,7 @@ Before software, I worked as a **Tax Strategist**, handling taxation, accounting
 | [**🐍 snake-game-javascript**](https://github.com/Hussain356/snake-game-javascript) | Classic Snake with keyboard and on-screen controls and a persistent high score | `JavaScript` |
 | [**✂️ rock-paper-scissors-javascript**](https://github.com/Hussain356/rock-paper-scissors-javascript) | Rock Paper Scissors against the computer, with a saved scoreboard and keyboard shortcuts | `JavaScript` |
 | [**🃏 memory-card-game-javascript**](https://github.com/Hussain356/memory-card-game-javascript) | Memory matching game with 8 pairs, flip animations, a 60-second timer, and a flip counter | `JavaScript` `CSS` |
-| [**🔤 word-arena-game-javascript**](https://github.com/Hussain356/word-arena-game-javascript) | Hangman and Word Scramble in one web app, with unit tests and GitHub Pages deployment | `JavaScript` |
+| **🔤 word-arena-game-javascript** | Hangman and Word Scramble in one web app, with unit tests and GitHub Pages deployment | `JavaScript` |
 
 ### 🎨 Creative & Interactive Tools
 
@@ -143,13 +146,14 @@ Before software, I worked as a **Tax Strategist**, handling taxation, accounting
 
 ## 📊 GitHub Stats
 
+<!-- Cache-buster: change v=2 to v=3, v=4, ... on every card whenever you want a forced refresh -->
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hussain356&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain356&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d9ff&text_color=c9d1d9" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hussain356&show_icons=true&hide_rank=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&cache_seconds=21600&v=2" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hussain356&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d9ff&text_color=c9d1d9&cache_seconds=21600&v=2" alt="Top languages"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Hussain356&theme=tokyonight&hide_border=true&background=0f2027&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=Hussain356&theme=tokyonight&hide_border=true&background=0f2027&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&v=2" alt="Contribution streak"/>
 </p>
 
 <p align="center"><em>Open to internships, collaborations, and learning opportunities.</em></p>
